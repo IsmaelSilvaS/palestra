@@ -27,7 +27,7 @@ header{
 section{
     color: white;
     padding: 20px;
-    background-image: url(./03.png);
+    background-image: url(./assets/03.png);
     background-size: cover;
     overflow: hidden;
     background-position: center;
