@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+.container{
+    max-width: 1000px;
+    margin: auto;
+}
+
+header{
+    background-color: #e2c6c6;
+    text-align: center;
+    color: rgb(70, 63, 27);
+    padding: 10px;
+}
+
+.title{
+    font-size: 26px;
+}
+
+section{
+    color: white;
+}
+
+.formContainer{
+    max-width: 230px;
+    background-color:black;
+    padding: 10px;
+}
