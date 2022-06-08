@@ -1,16 +1,18 @@
-#Página para Workshop
+<h1>Página para Workshop</h1>
 
 > Concluído
+<hr>
 
-###Focado na estilização de cores.
+<h3>Focado na estilização de cores.</h3>
 
-####Página para captura para workshop
+<h3>Página para captura para workshop</h3>
 
-##Tecnologias utilizadas
+<h2>Tecnologias utilizadas</h2>
 
-**HTML - CSS**
+<div><strong>HTML - CSS</strong></div>
+<hr>
 
-##O projeto
+<h3>Imagem do projeto</h3>
 
 <img src="./assets/imagem-projeto-workshop.png">
 
