@@ -5,11 +5,13 @@
 }
 
 body{
-    background-color: black;
+    background: rgb(36,0,26);
+    background: linear-gradient(90deg, rgba(36,0,26,1) 0%, rgba(255,0,95,1) 100%);
 }
 
 .container{
     max-width: 1000px;
+    padding: 5px;
     margin: auto;
 }
 
