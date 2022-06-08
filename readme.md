@@ -14,6 +14,6 @@
 
 <h3>Imagem do projeto</h3>
 
-<img src="![Imagem-projeto-workshop](https://user-images.githubusercontent.com/98490384/172621297-ccdc0598-068a-41fe-9202-f8b2c29a0ab0.png)">
+<img src="https://user-images.githubusercontent.com/98490384/172621297-ccdc0598-068a-41fe-9202-f8b2c29a0ab0.png">
 
 
